@@ -1,0 +1,56 @@
+/*styles de base pour le slider*/
+.myslider{
+    padding-top: 20px;
+    border: 3px solid rgb(255,127,0);
+    margin: 50px auto;
+    border-radius: 10px;
+}
+
+.mydiapo{
+    box-shadow: 0 0 10px black;
+}
+
+.mycontrolbar{
+    margin: 20px auto 0;
+    background-color: rgba(255,127,0,0.8);
+}
+
+.fas{
+	color: #1E392A;
+	font-size: 2em;
+	width: 30px;
+	cursor: "pointer";
+	transition: color 0.5s;
+}
+    .fas:hover{
+    	color: #3CC47C;
+    }
+
+/*contenu des slides*/
+#slider1-Slide0{
+    background-image: url(../images/Slide1.png)
+}
+#slider1-Slide1{
+    background-image: url(../images/Slide2.png)
+}
+#slider1-Slide2{
+    background-image: url(../images/Slide3.png)
+}
+#slider1-Slide3{
+    background-image: url(../images/Slide4.png)
+}
+#slider1-Slide4{
+    background-image: url(../images/Slide5.png)
+}
+#slider1-Slide5{
+    background-image: url(../images/Slide6.png)
+}
+#slider1-Slide6{
+    background-image: url(../images/Slide7.png)
+}
+#slider1-Slide7{
+    background-image: url(../images/Slide8.png)
+}
+#slider1-Slide8{
+    background-image: url(../images/Slide9.png)
+}
